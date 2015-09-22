@@ -1,0 +1,9 @@
+{
+  "name": "node-termb",
+  "version": "0.0.1",
+  "description": "termb sdk for node addon",
+  "main": "./lib/termb.js",
+  "gypfile": true,
+  "dependencies": {
+  }
+}
